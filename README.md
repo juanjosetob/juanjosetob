@@ -10,10 +10,10 @@
 
 ---
 
-### About Me :
+### About Me🔨 :
 
-- I am studying **software programming**
+- I am studying **software programming**✍️
 
-- You can contact me **email juanjosetobonz@gmail.com**
+- You can contact me **email juanjosetobonz@gmail.com**✉️
 
-- Ask me about **PHP, Python, HTML, CSS, JavasCrip**
+- Ask me about **PHP, Python, HTML, CSS, JavasCrip**🏅
