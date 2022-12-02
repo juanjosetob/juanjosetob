@@ -6,3 +6,14 @@
         and responsible, with good interpersonal relationships.
         I always have the best disposition at work. I like new challenges and I have the best disposition for them.</h3>
 </div>
+
+
+---
+
+### About Me :
+
+- I am studying **software programming**
+
+- You can contact me **email juanjosetobonz@gmail.com**
+
+- Ask me about **PHP, Python, HTML, CSS, JavasCrip**
