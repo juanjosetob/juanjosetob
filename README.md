@@ -1,19 +1,18 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
-    <h1 align="center">Hello, I'm juan jose tobon👋</h1>
+    <h1 align="center">Hola!!, soy juan jose tobon👋</h1>
     <h3 align="center">
-        I am a proactive, organized person
-        and responsible, with good interpersonal relationships.
-        I always have the best disposition at work. I like new challenges and I have the best disposition for them.</h3>
+       Soy una persona proactiva, organizada y sobre todo apacionada, me encantan los retos y aprender todos los dias,
+        Siempre con la mejor disposición y ganas.</h3>
 </div>
 
 
 ---
 
-### About Me🔨 :
+### Un poco sobre mi🔨 :
 
-- I am studying **software programming**✍️
+- **software programming**✍️
 
-- You can contact me **email juanjosetobonz@gmail.com**✉️
+- Me puesdes contactar a este correo: **juanjosetobonz@gmail.com**✉️
 
-- Ask me about **PHP, Python, HTML, CSS, JavasCript**🏅
+- Herramientas que manejo: **Php, c#, .Net, Git, GitHub**🏅
